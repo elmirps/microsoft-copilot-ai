@@ -17,7 +17,7 @@ Este projeto demonstra o uso do Microsoft Copilot para extrair texto de imagens.
 ![Imagem 1](https://github.com/elmirps/microsoft-copilot-ai/blob/main/inputs/pequenos-textos-coloridos-leitura-imprimir.jpg)
 
 
-#Texto Extraído:
+#Texto Extraído 1:
 
 SE ESSA RUA FOSSE MINHA
 
@@ -28,43 +28,45 @@ nem lixo jogado no chão.
 Carro soltando fumaça  
 não passaria por lá.  
 Ônibus, moto e caminhão  
-barulhento, nem pensar.
-Papel de bala e palito
-de sorvete, a gente jogaria no lixo.
-Um cesto perto de cada poste.
-Seria uma rua limpinha,
+barulhento, nem pensar.  
+Papel de bala e palito  
+de sorvete, a gente jogaria no lixo.  
+Um cesto perto de cada poste.  
+Seria uma rua limpinha,  
 se essa rua fosse minha.
 
-Eduardo Amos. Se essa rua fosse minha.
+Eduardo Amos. Se essa rua fosse minha.  
 São Paulo: Moderna, 2002.
+
 
 ### Imagem 2
 
 ![Imagem 2](https://github.com/elmirps/microsoft-copilot-ai/blob/main/inputs/Pequenos-Textos.jpg)
 
 
-**Texto Extraído**:
+#Texto Extraído 2:
 
 A onça e a raposa
 
-A onça estava faminta. Querendo pegar
-algum animal, teve uma ideia.
-— Vou me fingir de morta. Quando algum,
-mais bobinho, se aproximar, pumba! Salto em
-cima dele.
-Mas a raposa, muito esperta, ao ver a onça
-esticada no chão, ficou de longe e resolveu
-testar:
-— Meu avô quando morreu arrotou três
-vezes. Se o defunto não arrota, é porque
-não está bem morto.
-A onça, mais que depressa, deu logo os três
-arrotos.
-A raposa deu uma gargalhada e fugiu bem
-rápido.
+A onça estava faminta. Querendo pegar  
+algum animal, teve uma ideia.  
+— Vou me fingir de morta. Quando algum,  
+mais bobinho, se aproximar, pumba! Salto em  
+cima dele.  
+Mas a raposa, muito esperta, ao ver a onça  
+esticada no chão, ficou de longe e resolveu  
+testar:  
+— Meu avô quando morreu arrotou três  
+vezes. Se o defunto não arrota, é porque  
+não está bem morto.  
+A onça, mais que depressa, deu logo os três  
+arrotos.  
+A raposa deu uma gargalhada e fugiu bem  
+rápido.  
 — Há, há, defunto que arrota, nunca vi!
 
-(Adaptação do folclore
+(Adaptação do folclore)
+
 
 
 
