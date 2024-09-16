@@ -17,8 +17,9 @@ Este projeto demonstra o uso do Microsoft Copilot para extrair texto de imagens.
 ![Imagem 1](https://github.com/elmirps/microsoft-copilot-ai/blob/main/inputs/pequenos-textos-coloridos-leitura-imprimir.jpg)
 
 
-**Texto Extraído**:
-# SE ESSA RUA FOSSE MINHA
+#Texto Extraído:
+
+SE ESSA RUA FOSSE MINHA
 
 Se essa rua fosse minha,  
 não teria poluição.  
@@ -27,18 +28,6 @@ nem lixo jogado no chão.
 Carro soltando fumaça  
 não passaria por lá.  
 Ônibus, moto e caminhão  
-barulhento, nem pensar.
-
-
-SE ESSA RUA FOSSE MINHA
-
-Se essa rua fosse minha,
-não teria poluição.
-Não teria barulho demais,
-nem lixo jogado no chão.
-Carro soltando fumaça
-não passaria por lá.
-Ônibus, moto e caminhão
 barulhento, nem pensar.
 Papel de bala e palito
 de sorvete, a gente jogaria no lixo.
