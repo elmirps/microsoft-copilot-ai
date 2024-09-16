@@ -14,7 +14,7 @@ Este projeto demonstra o uso do Microsoft Copilot para extrair texto de imagens.
 
 ### Imagem 1
 
-![Imagem 1](https://github.com/elmirps/microsoft-copilot-ai/blob/main/inputs/Pequenos-Textos.jpg)
+![Imagem 1](https://github.com/elmirps/microsoft-copilot-ai/blob/main/inputs/pequenos-textos-coloridos-leitura-imprimir.jpg)
 
 
 **Texto Extraído**:
@@ -39,7 +39,8 @@ São Paulo: Moderna, 2002.
 
 ### Imagem 2
 
-![Imagem 2](https://github.com/elmirps/microsoft-copilot-ai/blob/main/inputs/pequenos-textos-coloridos-leitura-imprimir.jpg)
+![Imagem 2](https://github.com/elmirps/microsoft-copilot-ai/blob/main/inputs/Pequenos-Textos.jpg)
+
 
 **Texto Extraído**:
 
