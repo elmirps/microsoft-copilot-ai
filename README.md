@@ -8,8 +8,8 @@ Este projeto demonstra o uso do Microsoft Copilot para extrair texto de imagens.
 
 ## Processo
 
-1. **Recebimento das Imagens**: Duas imagens aleatórias foram buscadas na internet pelo pelo usuário, cada uma contendo texto em português.
-2. **Ferramenta**: Utilizamos o Microsoft Copilot para extrair o texto das imagens.
+1. **Recebimento das Imagens**: Duas imagens aleatórias foram buscadas na internet, cada uma contendo texto em português.
+2. **Ferramenta**: Utilizado o Microsoft Copilot para extrair o texto das imagens.
 3. **Transcrição do Texto**: O texto extraído foi transcrito e apresentado ao usuário.
 
 ### Imagem 1
